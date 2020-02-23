@@ -1,2 +1,2 @@
 # NetflixPharming
-Pharming = DNS Spoofing and Phishing
+Pharming = DNS Spoofing/Hijacking + Phishing
